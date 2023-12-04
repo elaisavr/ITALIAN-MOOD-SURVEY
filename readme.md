@@ -19,7 +19,7 @@ The steps followed for this project were:
 
 ## INSTRUCTIONS  
 
-Download Folder 'Input', open it in your editor/interpreter and run Python notebooks. 
+Download folders 'Data' and 'sources', the 5 .ipynb files and the .pbix document in the same directory, open it in your editor/interpreter and run Python notebooks. 
 
 For data cleaning, wrangling, exploratory Python 3.9 and the following libraries were used:  
 -   Pandas,  
