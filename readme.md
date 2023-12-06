@@ -1,7 +1,7 @@
 
 # ITALIAN MOOD SURVEY
 
-This challenge aimed to analyse and find some insites about a survey addressed to a sample of Italians between February - September 2023.
+This challenge aimed to analyse and find some insights about a survey addressed to a sample of Italians between February - September 2023.
 The survey questionned about moods, feelings, states of mind related to various aspects in personal life (feelings of the individual e.g. How are you today?) and the external context (feelings about the environment around the individual e.g. How do you feel about the current situation in Italy?)
 
 From the multiple details about all the individuals, already fullfilled in the survey, more variables were extracted to conduct the analysis such as:  
